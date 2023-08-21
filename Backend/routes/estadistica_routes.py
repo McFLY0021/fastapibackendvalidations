@@ -1,0 +1,1 @@
+"Aqui van a ir las rutas relacionadas con los calculos estadisticas y to esa talla"

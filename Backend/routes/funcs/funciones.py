@@ -1,0 +1,1 @@
+"Aqui van las tallas de funciones pa calcular"
